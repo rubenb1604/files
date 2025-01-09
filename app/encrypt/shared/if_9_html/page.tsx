@@ -3,7 +3,7 @@ import React from 'react';
 const videos = [
     {
         title: "Aufnahme",
-        url: "https://youtu.be/Ka3BxWAMgtc",
+        url: "https://youtu.be/CKSGeMVxetA",
         duration: "01:35:01",
     },
     {
